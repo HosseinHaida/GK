@@ -1,0 +1,35 @@
+api/node_modules
+api/.env*
+
+frontend/.DS_Store
+frontend/.thumbs.db
+frontend/node_modules
+
+# Quasar core related directories
+frontend/.quasar
+frontend/dist
+
+# Cordova related directories and files
+frontend/src-cordova/node_modules
+frontend/src-cordova/platforms
+frontend/src-cordova/plugins
+frontend/src-cordova/www
+
+# Capacitor related directories and files
+frontend/src-capacitor/www
+frontend/src-capacitor/node_modules
+
+# Log files
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Editor directories and files
+frontend/.idea
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/test/vitest/__tests__/demo
+frontend/test/vitest/__tests__/ExampleComponent.test.js
+frontend/test/vitest/__tests__/NotifyComponent.test.js

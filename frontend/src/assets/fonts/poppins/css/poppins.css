@@ -1,0 +1,15 @@
+@font-face {
+  font-family: poppins;
+  font-style: normal;
+  unicode-range: U+0000-007F;
+  src: url("/src/assets/fonts/poppins/fonts/poppins_light.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: poppins;
+  font-style: bold;
+  unicode-range: U+0000-007F;
+  src: url("/src/assets/fonts/poppins/fonts/poppins_bold.ttf")
+    format("truetype");
+}
